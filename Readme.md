@@ -7,3 +7,4 @@ I am using the website [DoFactory](https://www.dofactory.com/javascript/design-p
 # Creational Patterns
 
 * Abstract Factory
+* Builder
